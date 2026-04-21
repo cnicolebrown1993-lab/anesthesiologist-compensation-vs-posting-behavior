@@ -25,10 +25,11 @@ The goal is to understand whether high job volume aligns with high-paying opport
 ## Key Visualizations
 
 ### Job Posting Volume by Day of Week
-![Job Postings](images/job_postings_by_day.png)
+<img width="2970" height="1474" alt="job_postings_by_day" src="https://github.com/user-attachments/assets/cc68dec4-2c7b-447c-b02a-6949faa2f30f" />
 
 ### Average Compensation by Day of Week
-![Compensation](images/avg_compensation_by_day.png)
+<img width="2969" height="1474" alt="avg_compensation_by_day" src="https://github.com/user-attachments/assets/44fe51a5-1d66-4d14-8f6c-ab4e0e2cace2" />
+
 
 ---
 
