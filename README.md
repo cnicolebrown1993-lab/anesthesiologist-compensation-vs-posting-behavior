@@ -59,20 +59,6 @@ This distinction highlights a key insight:
 
 ---
 
-## Project Structure
-anesthesiologist-compensation-vs-posting-behavior/
-│
-├── README.md
-├── compensation_trends_analysis.ipynb
-├── /images
-│ ├── job_postings_by_day.png
-│ └── avg_compensation_by_day.png
-├── /sql
-│ └── analysis.sql
-
-
----
-
 ## Future Improvements
 - Expand dataset to multiple months for long-term trend analysis
 - Segment analysis by job type, facility, or experience level
