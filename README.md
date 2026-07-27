@@ -47,7 +47,7 @@ The goal is to understand whether high job volume aligns with high-paying opport
 - Thursday: highest volume, moderate compensation (~$559K)
 - Wednesday: lower volume, highest compensation (~$594K)
 
-👉 This indicates that higher-paying roles are posted more selectively, while bulk postings occur later in the week.
+ This indicates that higher-paying roles are posted more selectively, while bulk postings occur later in the week.
 
 ---
 
